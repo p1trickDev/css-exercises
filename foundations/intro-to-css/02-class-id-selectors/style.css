@@ -2,10 +2,7 @@
 .num3,
 .num5 {
   background-color: lightpink;
-  font-family:
-    Verdana,
-    Dejavu Sans,
-    sans-serif;
+  font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
 #num2 {
@@ -14,11 +11,10 @@
 }
 
 .num3 {
-  font-size: 36px;
+  font-size: 24px;
 }
 
 #num4 {
   background-color: lightgreen;
-  font-size: 24px;
   font-weight: bold;
 }
